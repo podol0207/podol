@@ -14,3 +14,10 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
    <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
+<div align="center">
+  <h3>📌 My Github Stats 📌</h3>
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=podol0207&langs_count=10&layout=compact&theme=default" style="height: 185px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=podol0207&show_icons=true&theme=default&count_private=true" style="height: 185px;"/>
+  </div>
+</div>
